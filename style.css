@@ -1,5 +1,7 @@
 body {
     margin: 0;
+}
+.bg{
     background-image: linear-gradient(#fc77bc, #fa4ba5);
 }
 
